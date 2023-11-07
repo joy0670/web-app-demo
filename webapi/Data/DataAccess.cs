@@ -7,7 +7,7 @@ namespace webapi.DataAccess
 {
     public class DataAccess
     {
-        private readonly string _connectionString = "User Id=jyin; Password=ozmu@amc1; Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=rsrvora01.nl.docdata.com)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=rprtnl))); Min Pool Size=10;Connection Lifetime=120;Incr Pool Size=5;Decr Pool Size=2;Max Pool Size=30;Validate Connection=true;Connection Timeout=300;persist security info=false;";
+        private readonly string _connectionString = "";
 
         public IEnumerable<Employee> GetEmployees()
         {
