@@ -15,21 +15,11 @@ An all-in-one analysis, visualization, and interaction application of a omni-cha
 - Database: `Oracle` & `MongoDB`
 - Deployment: `Docker` & `Azure DevOps`
 
-## Installation & Usage 🔧
-
-1. Clone the repo: `git clone https://github.com/joy0670/web-app-demo.git`
-2. Navigate into the directory: `cd web-app-demo`
-3. Install dependencies: `npm install`
-4. Run the app: `npm start`
-
-For detailed setup and configuration, refer to the [installation guide](link-to-detailed-installation-guide). <!-- Replace with the link to your detailed guide if available -->
 
 ## Demo & Documentation 📖
-- **Live Demo**: [Here](link-to-live-demo) (will add at the begining of September)
-- **Documentation**: [Here](link-to-documentation) (will add at the begining of September)
+- **Live Demo**: [Here](link-to-live-demo) (will add at later stage)
+- **Documentation**: [Here](link-to-documentation) (will add at later stage)
 
-## Check & Run the Application 🚀
-Ensure your system meets the required environment to run the application. Check the [environment setup guide](link-to-environment-setup-guide) for step-by-step instructions. <!-- Replace with the link to your setup guide -->
 
 ## Contact & Contributions 📞🤝
 
