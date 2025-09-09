@@ -17,7 +17,7 @@ An all-in-one analysis, visualization, and interaction application of a omni-cha
 
 
 ## Demo & Documentation 📖
-- **Live Demo**: [Here](link-to-live-demo) (will add at later stage)
+- **Live Demo**: ![Web App Screenshot](https://github.com/joy0670/web-app-demo/issues/1#issue-1876912919) 
 - **Documentation**: [Here](link-to-documentation) (will add at later stage)
 
 
